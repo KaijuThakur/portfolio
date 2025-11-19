@@ -1,0 +1,182 @@
+
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+html,body{
+height: 100%;
+width: 100%;
+} 
+
+#box
+{
+    height: 1900px;
+    width: 1000x;
+    background-color:#f9f4f3 ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+#toy
+{    height: 180px;
+    text-align: center;
+    background-color: rgb(53, 53, 96);
+    color: #f9f4f3;
+}
+#joy
+{   height: 150px;
+    margin-right: 50px;
+    margin-left: 50px;
+    text-align: center;
+    background-color:#ffffff;
+}
+#koy
+{
+    height: 240px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: #cce5ff;
+    
+}
+#ed
+{  
+    background-color: white;
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+#on
+{  
+    background-color: white;
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#goy
+{
+    height: 240px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: rgb(225, 211, 239);
+    
+}
+#pan
+{  
+    background-color: white;
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+
+}
+#mos
+{  
+    background-color: white;
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#qok
+{
+    height: 440px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: #fff3cd;
+    
+}
+#tan
+{  
+    background-color: rgb(231, 239, 239);
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+    
+
+}
+#cos
+{  
+    background-color: rgb(231, 239, 239);
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+#sok
+{
+    height: 340px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: #e2d9f3;
+    
+}
+#an
+{  
+    background-color: white;
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-style: italic;
+    font-size: small;
+
+}
+#os
+{  
+    background-color:white;
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-style: italic;
+    font-size: small;
+}
+#tos
+{  
+    background-color:white;
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-style: italic;
+    font-size: small;
+}
+#dok
+{
+    height: 340px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: #d4edda;
+    
+}
+#lan
+{  
+    background-color: white;
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+    font-weight: ;
+
+}
+#kos
+{  
+    background-color: white;
+    height: 58px;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+#quantum
+{
+    text-align: center;
+    background-color:rgb(53, 53, 96);
+    height:65px;
+    color: #f9f4f3;
+}
